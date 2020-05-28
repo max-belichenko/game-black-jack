@@ -26,6 +26,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
@@ -70,10 +71,18 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="549" y="160" key="FileChooserDialogImpl" timestamp="1590668909446">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="160" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1590668909446" />
     <state x="603" y="334" width="354" height="165" key="Github.CreateGistDialog" timestamp="1590668782372">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="603" y="334" width="354" height="165" key="Github.CreateGistDialog/0.0.1536.834@0.0.1536.834" timestamp="1590668782372" />
+    <state x="630" y="312" key="Github.ShareDialog" timestamp="1590668925180">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="630" y="312" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1590668925180" />
     <state width="1515" height="451" key="GridCell.Tab.0.bottom" timestamp="1590666153458">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
